@@ -10,7 +10,7 @@ from email.mime.text import MIMEText
 
 
 def get_config_parameters(sys_args):
-    config_path = 'config/config.cfg'
+    config_path = 'src/config/config.cfg'
     if sys_args:
         config_path = sys_args[0]
 
