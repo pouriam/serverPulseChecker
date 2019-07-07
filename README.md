@@ -1,7 +1,6 @@
 # Server Pulse Checker
-A python project to constantly monitor services for the 
-availability on server(s) and send email if services are down. Basically it checks
-if a service on specified host is running.
+A python project to constantly monitor services for availability and send email if services are down. Basically it checks
+if a service on a specified host is running.
 
 ## Requirements
 Python 3 (tested with python 3.6 but should be fine with any version of python 3)
